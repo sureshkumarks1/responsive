@@ -1,7 +1,3 @@
-*{
-    padding: 0px;
-    margin: 0px;
-}
 
 .topmenu{
     width: 900px;
@@ -66,4 +62,27 @@
      text-align:start;
      padding-top: 30px;
   }
+}
+
+.custnav{
+  margin-left: 600px;
+  color: #FFF;
+  
+}
+
+.navbar-nav a{
+  color: #FFF;
+}
+.navbar-nav a:hover{
+  color: #FFF;
+
+}
+.custhead{
+  font-size: 2rem;
+  color: #FFF;
+  text-align: center;
+  margin-top: 20px;
+}
+.custimagetwo{
+  margin-top: 10%;
 }

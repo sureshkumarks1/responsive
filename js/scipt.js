@@ -1,3 +1,3 @@
-var popover = new bootstrap.Popover(document.querySelector('.example-popover'), {
-    container: 'body'
-  })
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
